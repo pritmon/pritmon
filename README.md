@@ -9,7 +9,7 @@ Bengaluru, India • 12+ Years Experience
 
 ### 🏗 What I Do
 
-Architect enterprise-scale automation ecosystems combining **UiPath, APIs, and GenAI (RAG)** to deliver scalable, production-ready solutions across Banking and Healthcare domains.
+Architect enterprise-scale automation ecosystems combining **UiPath, AA, Python, APIs, and GenAI (RAG)** to deliver scalable, production-ready solutions across Banking and Healthcare domains.
 
 ---
 
