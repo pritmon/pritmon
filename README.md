@@ -1,8 +1,7 @@
 <h2 align="center">Pritam Mondal</h2>
 <p align="center">
 Solution Architect – RPA & Intelligent Automation | GenAI Engineer
-<br/>
-Bengaluru, India • 12+ Years Experience
+
 </p>
 
 ---
