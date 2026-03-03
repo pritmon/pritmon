@@ -8,7 +8,7 @@ Solution Architect – RPA & Intelligent Automation | GenAI Engineer
 
 ### 🏗 What I Do
 
-Architect enterprise-scale automation ecosystems combining **UiPath, AA, Python, APIs, and GenAI (RAG)** to deliver scalable, production-ready solutions across Banking and Healthcare domains.
+Architect enterprise-scale automation ecosystems combining **UiPath, AA, Python, APIs, and GenAI (RAG)** to deliver scalable, production-ready solutions across all domains like Banking ,Healthcare , Retail .
 
 ---
 
