@@ -26,24 +26,27 @@
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-```yaml
-name: Pritam Mondal
-role: Solution Architect — RPA & Intelligent Automation | GenAI Engineer
-experience: 12+ years
-location: India
-domains: Banking, Healthcare, Retail
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
 
-current_focus:
-  - Building FinShield AI — Real-time Fraud Detection & Risk Scoring
-  - Building GCP Secure Bot Network — Terraform Cloud Infrastructure
-  - Preparing for GCP Machine Learning Engineer Certification
+I architect **end-to-end automation and AI solutions** for enterprises across **Banking, Healthcare, and Retail**.
 
-what_i_do: |
-  I architect end-to-end automation and AI solutions for enterprises.
-  My work sits at the intersection of RPA platforms, GenAI/RAG systems,
-  cloud infrastructure, and API integrations — turning complex business
-  problems into scalable, production-ready systems.
-```
+My work sits at the intersection of RPA platforms, GenAI/RAG systems, cloud infrastructure, and API integrations — turning complex business problems into **scalable, production-ready systems**.
+
+&nbsp;
+
+🏗️ &nbsp; **12+ years** of enterprise automation experience
+
+🤖 &nbsp; Specializing in **RPA + GenAI** hybrid architectures
+
+☁️ &nbsp; Building on **Google Cloud Platform** (Vertex AI, BigQuery, Cloud Run)
+
+🔬 &nbsp; Currently building **FinShield AI** — real-time fraud detection platform
+
+📜 &nbsp; Preparing for **GCP ML Engineer** certification
+
+🌍 &nbsp; Based in **India** &nbsp;·&nbsp; Open to global opportunities
+
+&nbsp;
 
 <br/>
 
